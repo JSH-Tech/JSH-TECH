@@ -1,11 +1,11 @@
 <h1 align="center">JSH-Tech — Software Developer 👋</h1>
 <hr>
 
-<h3 align="center">En train de construir ma carrière, une brique apres l'autre</h3>
+<h3 align="center">Building my career, one brick at a time</h3>
 
 <!-- Typing SVG (animated role/skills) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%7C+AI+%2B+Cloud+%7C+Web+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Fullstack+Developer%2C+.NET+Developer%2C+Microsoft+365+Administrator%2C+Azure%2C+Power+Platform" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE_VIEWS_START -->
@@ -15,7 +15,7 @@
 </p>
 <!-- PROFILE_VIEWS_END -->
 
-<!-- Komarev counter (example style, kept as visual fallback) -->
+<!-- Komarev counter (visual fallback) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JSH-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="JSH-Tech" />
 </p>
@@ -23,7 +23,7 @@
 ---
 
 - 🔭 I’m currently deep-diving into **modern JavaScript tools & cloud-native architectures**
-- 🌱 Explore my code, projects and playgrounds on GitHub
+- 🌱 Explore my code, projects, and playgrounds on GitHub
 - ⚡ Fun fact: I bring ideas to life faster than I choose a Netflix show 🎬💡
 
 ---
