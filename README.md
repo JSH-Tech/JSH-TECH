@@ -77,7 +77,7 @@ I'm a software developer / engineer / designer (replace with your role). I enjoy
 - 🔭 Currently working on: <current project>
 - 🌱 Currently learning: <technologies you're learning>
 - 💬 Ask me about: <topics you can help with>
-- 📫 How to reach me:[LinkedIn](https://[https://www.linkedin.com/in/josueabotsidia])
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josueabotsidia)
 - ⚡ Fun fact: <a short, fun fact>
 
 ## Skills
@@ -95,7 +95,7 @@ I'm a software developer / engineer / designer (replace with your role). I enjoy
 [![trophy](https://github-profile-trophy.vercel.app/?username=JSH-Tech&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact & Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-handle>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josueabotsidia)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/<your-handle>)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<your.email@example.com>)
 
