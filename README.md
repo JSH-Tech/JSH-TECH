@@ -5,7 +5,7 @@
 
 <!-- Typing SVG (animated role/skills) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Fullstack+Developer%2C+.NET+Developer%2C+Microsoft+365+Administrator%2C+Azure%2C+Power+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Fullstack+Developer%2C%0A.NET+Developer%2C%0AMicrosoft+365+Administrator%2C+Azure%2C+Power+Platform" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE_VIEWS_START -->
