@@ -12,13 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Microsoft+365+Administrator%2C+Azure%2C+Power+Platform" alt="Typing SVG - Part 2" />
 </p>
 
-<!-- PROFILE_VIEWS_START -->
-<p align="center">
-  <span style="background:#e2e8f0;border-radius:6px;padding:6px 10px;color:#111;font-weight:600;margin-right:6px">Profile views</span>
-  <span id="profile-views" style="background:#1e90ff;border-radius:6px;padding:6px 10px;color:#fff;font-weight:700">0</span>
-</p>
-<!-- PROFILE_VIEWS_END -->
-
 <!-- Komarev counter (visual fallback) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JSH-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="JSH-Tech" />
@@ -35,7 +28,7 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<your-handle>/" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/josueabotsidia/" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
