@@ -52,6 +52,9 @@
   <!-- C# (via jsDelivr/devicon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/csharp/csharp-original.svg" alt="C#" height="32" style="margin:0 8px; vertical-align:middle;" />
 
+  <!-- XAML (badge fallback) -->
+  <img src="https://img.shields.io/badge/XAML-68217A?style=flat-square&logo=dot-net&logoColor=white" alt="XAML" height="32" style="margin:0 8px; vertical-align:middle;" />
+  
   <!-- .NET -->
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="32" style="margin:0 8px; vertical-align:middle;" />
 
@@ -60,9 +63,6 @@
 
   <!-- Java -->
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="32" style="margin:0 8px; vertical-align:middle;" />
-
-  <!-- XAML (badge fallback) -->
-  <img src="https://img.shields.io/badge/XAML-68217A?style=flat-square&logo=dot-net&logoColor=white" alt="XAML" height="32" style="margin:0 8px; vertical-align:middle;" />
 
   <!-- Visual Studio & VS Code -->
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" height="32" style="margin:0 8px; vertical-align:middle;" />
