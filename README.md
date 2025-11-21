@@ -38,17 +38,17 @@
 ### Languages & Tools
 
 <p align="center" style="line-height:1.6;">
-  <!-- Main icons via skillicons -->
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" style="height:36px; vertical-align:middle;" />
+  <!-- Main icons via skillicons (set to same height) -->
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" style="height:32px; vertical-align:middle; margin:0 8px;" />
 
-  <!-- C# (devicon SVG hosted) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="height:36px; vertical-align:middle; margin:0 10px;" />
+  <!-- C# (devicon SVG hosted) - forced to same height -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="height:32px; vertical-align:middle; margin:0 8px;" />
 
-  <!-- Entity Framework (badge fallback as hosted image) -->
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" style="height:28px; vertical-align:middle; margin:0 6px;" />
+  <!-- Entity Framework (badge hosted) - forced to same height -->
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" style="height:32px; vertical-align:middle; margin:0 8px;" />
 
-  <!-- XAML (badge fallback as hosted image) -->
-  <img src="https://img.shields.io/badge/XAML-68217A?style=flat-square&logo=dot-net&logoColor=white" alt="XAML" style="height:28px; vertical-align:middle; margin:0 6px;" />
+  <!-- XAML (badge hosted) - forced to same height -->
+  <img src="https://img.shields.io/badge/XAML-68217A?style=flat-square&logo=dot-net&logoColor=white" alt="XAML" style="height:32px; vertical-align:middle; margin:0 8px;" />
 </p>
 
 ---
