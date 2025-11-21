@@ -37,23 +37,23 @@
 
 ### Languages & Tools
 
-<p align="center">
-  <!-- Main icons via skillicons -->
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" height="34" style="vertical-align:middle" />
+<p align="center" style="line-height:1.6;">
+  <!-- Main row: scalable skillicons image for most icons (height adjusted for clarity) -->
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" style="height:36px; vertical-align:middle; margin-bottom:10px;" />
 
-  <!-- C# fallback from devicon to ensure the C# logo appears -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="34" style="margin-left:10px;vertical-align:middle" />
+  <!-- Separate, individually-controlled icons for consistent spacing and size -->
+  <br />
 
-  <!-- Entity Framework: simple inline SVG badge (fallback) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="96" height="34" viewBox="0 0 96 34" style="margin-left:10px;vertical-align:middle" role="img" aria-label="Entity Framework">
-    <rect width="96" height="34" rx="6" fill="#2C9A45"/>
-    <text x="48" y="22" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Entity Framework</text>
-  </svg>
+  <!-- C# (devicon fallback) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="height:32px; vertical-align:middle; margin:0 10px;" />
 
-  <!-- XAML: simple inline SVG badge (fallback) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="64" height="34" viewBox="0 0 64 34" style="margin-left:10px;vertical-align:middle" role="img" aria-label="XAML">
-    <rect width="64" height="34" rx="6" fill="#68217A"/>
-    <text x="32" y="22" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">XAML</text>
+  <!-- Entity Framework (hosted fallback badge) -->
+  <img src="https://raw.githubusercontent.com/microsoftdocs/architecture-center/main/docs/reference-architecture/images/entity-framework-core.png" alt="Entity Framework" style="height:32px; vertical-align:middle; margin:0 10px; background:transparent;" />
+
+  <!-- XAML (simple badge fallback) -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="110" height="32" viewBox="0 0 110 32" style="vertical-align:middle; margin:0 10px;" role="img" aria-label="XAML">
+    <rect width="110" height="32" rx="6" fill="#68217A"/>
+    <text x="55" y="21" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">XAML</text>
   </svg>
 </p>
 
