@@ -37,23 +37,19 @@
 
 ### Languages & Tools
 
-<p align="center" style="line-height:1.6;">
-  <!-- Main row: scalable skillicons image for most icons (height adjusted for clarity) -->
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" style="height:36px; vertical-align:middle; margin-bottom:10px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,csharp,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" />
 
-  <!-- Separate, individually-controlled icons for consistent spacing and size -->
-  <br />
+  <!-- Custom SVG for Entity Framework -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="120" height="34" viewBox="0 0 120 34" style="vertical-align:middle; margin-left:10px;" role="img" aria-label="Entity Framework">
+    <rect width="120" height="34" rx="6" fill="#512BD4"/>
+    <text x="60" y="21" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Entity Framework</text>
+  </svg>
 
-  <!-- C# (devicon fallback) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="height:32px; vertical-align:middle; margin:0 10px;" />
-
-  <!-- Entity Framework (hosted fallback badge) -->
-  <img src="https://raw.githubusercontent.com/microsoftdocs/architecture-center/main/docs/reference-architecture/images/entity-framework-core.png" alt="Entity Framework" style="height:32px; vertical-align:middle; margin:0 10px; background:transparent;" />
-
-  <!-- XAML (simple badge fallback) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="110" height="32" viewBox="0 0 110 32" style="vertical-align:middle; margin:0 10px;" role="img" aria-label="XAML">
-    <rect width="110" height="32" rx="6" fill="#68217A"/>
-    <text x="55" y="21" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">XAML</text>
+  <!-- Custom SVG for XAML -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="86" height="34" viewBox="0 0 86 34" style="vertical-align:middle; margin-left:10px;" role="img" aria-label="XAML">
+    <rect width="86" height="34" rx="6" fill="#68217A"/>
+    <text x="43" y="21" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">XAML</text>
   </svg>
 </p>
 
