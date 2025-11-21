@@ -37,20 +37,18 @@
 
 ### Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,csharp,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" />
+<p align="center" style="line-height:1.6;">
+  <!-- Main icons via skillicons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" style="height:36px; vertical-align:middle;" />
 
-  <!-- Custom SVG for Entity Framework -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="120" height="34" viewBox="0 0 120 34" style="vertical-align:middle; margin-left:10px;" role="img" aria-label="Entity Framework">
-    <rect width="120" height="34" rx="6" fill="#512BD4"/>
-    <text x="60" y="21" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Entity Framework</text>
-  </svg>
+  <!-- C# (devicon SVG hosted) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="height:36px; vertical-align:middle; margin:0 10px;" />
 
-  <!-- Custom SVG for XAML -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="86" height="34" viewBox="0 0 86 34" style="vertical-align:middle; margin-left:10px;" role="img" aria-label="XAML">
-    <rect width="86" height="34" rx="6" fill="#68217A"/>
-    <text x="43" y="21" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">XAML</text>
-  </svg>
+  <!-- Entity Framework (badge fallback as hosted image) -->
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" style="height:28px; vertical-align:middle; margin:0 6px;" />
+
+  <!-- XAML (badge fallback as hosted image) -->
+  <img src="https://img.shields.io/badge/XAML-68217A?style=flat-square&logo=dot-net&logoColor=white" alt="XAML" style="height:28px; vertical-align:middle; margin:0 6px;" />
 </p>
 
 ---
