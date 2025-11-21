@@ -77,7 +77,7 @@ I'm a software developer / engineer / designer (replace with your role). I enjoy
 - 🔭 Currently working on: <current project>
 - 🌱 Currently learning: <technologies you're learning>
 - 💬 Ask me about: <topics you can help with>
-- 📫 How to reach me: <your.email@example.com> or [LinkedIn](https://[https://www.linkedin.com/in/josueabotsidia])
+- 📫 How to reach me:[LinkedIn](https://[https://www.linkedin.com/in/josueabotsidia])
 - ⚡ Fun fact: <a short, fun fact>
 
 ## Skills
