@@ -100,8 +100,27 @@
 
 ---
 
-## Badges & Widgets
-[![trophy](https://github-profile-trophy.vercel.app/?username=JSH-Tech&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+## Badges & Certifications
+
+<p align="center">
+  <!-- Microsoft certification badges (shields.io). They link to the Microsoft Certifications overview page by default.
+       If you prefer each badge to link to your individual certification verification URLs, provide those links and I'll update them. -->
+  <a href="https://learn.microsoft.com/certifications/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Microsoft_Cert-Security%2C_Compliance_%26_Identity_Fundamentals-blue?style=flat-square&logo=microsoft" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" style="margin:4px;" />
+  </a>
+
+  <a href="https://learn.microsoft.com/certifications/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Microsoft_Cert-Dynamics_365_Fundamentals_(CRM)-blue?style=flat-square&logo=microsoft" alt="Microsoft Certified: Dynamics 365 Fundamentals (CRM)" style="margin:4px;" />
+  </a>
+
+  <a href="https://learn.microsoft.com/certifications/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Microsoft_Cert-Microsoft_365_Fundamentals-blue?style=flat-square&logo=microsoft" alt="Microsoft 365 Certified: Fundamentals" style="margin:4px;" />
+  </a>
+
+  <a href="https://learn.microsoft.com/certifications/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Microsoft_Cert-Azure_AI_Fundamentals-blue?style=flat-square&logo=microsoft" alt="Microsoft Certified: Azure AI Fundamentals" style="margin:4px;" />
+  </a>
+</p>
 
 ## Contact & Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josueabotsidia)
