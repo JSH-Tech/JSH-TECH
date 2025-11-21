@@ -100,26 +100,6 @@
 
 ---
 
-## About Me
-I'm a software developer / engineer / designer (replace with your role). I enjoy building useful things and learning new technologies.
-
-- 🔭 Currently working on: <current project>
-- 🌱 Currently learning: <technologies you're learning>
-- 💬 Ask me about: <topics you can help with>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josueabotsidia)
-- ⚡ Fun fact: <a short, fun fact>
-
-## Skills
-- Languages: JavaScript, TypeScript, Python, Go (customize as needed)
-- Frontend: React, Vue
-- Backend: Node.js, Express, PostgreSQL
-- Tools: Docker, GitHub Actions, Terraform
-
-## Featured Projects
-- [Project One](https://github.com/JSH-Tech/project-one) — short description
-- [Project Two](https://github.com/JSH-Tech/project-two) — short description
-- [Project Three](https://github.com/JSH-Tech/project-three) — short description
-
 ## Badges & Widgets
 [![trophy](https://github-profile-trophy.vercel.app/?username=JSH-Tech&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
