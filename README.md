@@ -1,4 +1,5 @@
-<h1 align="center">JSH-Tech — Software Developer 👋</h1>
+<h1 align="center">Josue Abotsidia — Software Developer 👋</h1>
+<h3 align="center"> JSH-TECH </h3>
 <hr>
 
 <h3 align="center">Building my career, one brick at a time</h3>
