@@ -70,8 +70,8 @@
   <!-- Azure -->
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="32" style="margin:0 8px; vertical-align:middle;" />
 
-  <!-- NetBeans -->
-  <img src="https://skillicons.dev/icons?i=netbeans" alt="NetBeans" height="32" style="margin:0 8px; vertical-align:middle;" />
+  <!-- NetBeans (devicon hosted) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="NetBeans" height="32" style="margin:0 8px; vertical-align:middle;" />
 
   <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="32" style="margin:0 8px; vertical-align:middle;" />
