@@ -38,7 +38,23 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,csharp,dotnet,java,visualstudio,vscode,azure,netbeans,github" />
+  <!-- Main icons via skillicons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,dotnet,java,visualstudio,vscode,azure,netbeans,github" alt="Skills icons" height="34" style="vertical-align:middle" />
+
+  <!-- C# fallback from devicon to ensure the C# logo appears -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="34" style="margin-left:10px;vertical-align:middle" />
+
+  <!-- Entity Framework: simple inline SVG badge (fallback) -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="96" height="34" viewBox="0 0 96 34" style="margin-left:10px;vertical-align:middle" role="img" aria-label="Entity Framework">
+    <rect width="96" height="34" rx="6" fill="#2C9A45"/>
+    <text x="48" y="22" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">Entity Framework</text>
+  </svg>
+
+  <!-- XAML: simple inline SVG badge (fallback) -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="64" height="34" viewBox="0 0 64 34" style="margin-left:10px;vertical-align:middle" role="img" aria-label="XAML">
+    <rect width="64" height="34" rx="6" fill="#68217A"/>
+    <text x="32" y="22" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">XAML</text>
+  </svg>
 </p>
 
 ---
