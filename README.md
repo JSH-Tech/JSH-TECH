@@ -38,7 +38,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,php,express,ts,js,python,aws,docker,postgres,mysql,terraform,tailwind,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,html,css,bootstrap,tailwind,prisma,csharp,dotnet,java,visualstudio,vscode,azure,netbeans,github" />
 </p>
 
 ---
