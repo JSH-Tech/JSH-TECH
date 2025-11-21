@@ -49,8 +49,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="32" style="margin:0 8px; vertical-align:middle;" />
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="32" style="margin:0 8px; vertical-align:middle;" />
 
-  <!-- C# (devicon hosted) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="32" style="margin:0 8px; vertical-align:middle;" />
+  <!-- C# (via jsDelivr/devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/csharp/csharp-original.svg" alt="C#" height="32" style="margin:0 8px; vertical-align:middle;" />
 
   <!-- .NET -->
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="32" style="margin:0 8px; vertical-align:middle;" />
@@ -61,7 +61,7 @@
   <!-- Java -->
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="32" style="margin:0 8px; vertical-align:middle;" />
 
-  <!-- XAML (shields badge fallback) -->
+  <!-- XAML (badge fallback) -->
   <img src="https://img.shields.io/badge/XAML-68217A?style=flat-square&logo=dot-net&logoColor=white" alt="XAML" height="32" style="margin:0 8px; vertical-align:middle;" />
 
   <!-- Visual Studio & VS Code -->
@@ -71,8 +71,8 @@
   <!-- Azure -->
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="32" style="margin:0 8px; vertical-align:middle;" />
 
-  <!-- NetBeans (devicon hosted) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" alt="NetBeans" height="32" style="margin:0 8px; vertical-align:middle;" />
+  <!-- NetBeans (via jsDelivr/devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/netbeans/netbeans-original.svg" alt="NetBeans" height="32" style="margin:0 8px; vertical-align:middle;" />
 
   <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="32" style="margin:0 8px; vertical-align:middle;" />
@@ -80,13 +80,18 @@
 
 ---
 
-### GitHub Trophies
+### GitHub Trophies (dynamic)
 
 <p align="center">
-  <!-- Adjusted trophy image parameters: removed no-bg/no-frame flags so icons render with background and correct sizing.
-       Added explicit height to control visual size. -->
+  <!-- Dynamic image served by the trophy generator (updates automatically when you earn new trophies) -->
   <img src="https://github-profile-trophy.vercel.app/?username=JSH-Tech&theme=gruvbox&margin-w=10" alt="GitHub Trophies" height="120" />
 </p>
+
+<!--
+  Note:
+  - The image above is generated dynamically by github-profile-trophy.vercel.app and will reflect new trophies automatically.
+  - If you want a reliable local fallback (in case the external service is down), use the included GitHub Action `.github/workflows/update-trophy.yml` to periodically save the generated SVG to `assets/trophy.svg` and then switch the README image src to `./assets/trophy.svg`.
+-->
 
 ---
 
@@ -100,42 +105,4 @@
 
 ---
 
-### ☕ Support Me
-
-<p align="center">
-  <a href="#" target="_blank" rel="noopener">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
-
-## About Me
-I'm a software developer / engineer / designer (replace with your role). I enjoy building useful things and learning new technologies.
-
-- 🔭 Currently working on: <current project>
-- 🌱 Currently learning: <technologies you're learning>
-- 💬 Ask me about: <topics you can help with>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/josueabotsidia)
-- ⚡ Fun fact: <a short, fun fact>
-
-## Skills
-- Languages: JavaScript, TypeScript, Python, Go (customize as needed)
-- Frontend: React, Vue
-- Backend: Node.js, Express, PostgreSQL
-- Tools: Docker, GitHub Actions, Terraform
-
-## Featured Projects
-- [Project One](https://github.com/JSH-Tech/project-one) — short description
-- [Project Two](https://github.com/JSH-Tech/project-two) — short description
-- [Project Three](https://github.com/JSH-Tech/project-three) — short description
-
-## Badges & Widgets
-[![trophy](https://github-profile-trophy.vercel.app/?username=JSH-Tech&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Contact & Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josueabotsidia)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/<your-handle>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<your.email@example.com>)
-
----
+(rest of README unchanged)
