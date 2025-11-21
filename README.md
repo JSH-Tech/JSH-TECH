@@ -83,7 +83,9 @@
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JSH-Tech&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+  <!-- Adjusted trophy image parameters: removed no-bg/no-frame flags so icons render with background and correct sizing.
+       Added explicit height to control visual size. -->
+  <img src="https://github-profile-trophy.vercel.app/?username=JSH-Tech&theme=gruvbox&margin-w=10" alt="GitHub Trophies" height="120" />
 </p>
 
 ---
