@@ -12,6 +12,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Microsoft+365+Administrator%2C+Azure%2C+Power+Platform" alt="Typing SVG - Part 2" />
 </p>
 
+<!-- PROFILE_VIEWS_START -->
+<p align="center">
+  <span style="background:#e2e8f0;border-radius:6px;padding:6px 10px;color:#111;font-weight:600;margin-right:6px">Profile views</span>
+  <span id="profile-views" style="background:#1e90ff;border-radius:6px;padding:6px 10px;color:#fff;font-weight:700">0</span>
+</p>
 <!-- PROFILE_VIEWS_END -->
 
 <!-- Komarev counter (visual fallback) -->
@@ -79,7 +84,7 @@ I'm a software developer / engineer / designer (replace with your role). I enjoy
 - 🔭 Currently working on: <current project>
 - 🌱 Currently learning: <technologies you're learning>
 - 💬 Ask me about: <topics you can help with>
-- 📫 How to reach me: <your.email@example.com> or [LinkedIn](https://www.linkedin.com/in/<your-handle>)
+- 📫 How to reach me: <your.email@example.com> or [LinkedIn](https://[https://www.linkedin.com/in/josueabotsidia])
 - ⚡ Fun fact: <a short, fun fact>
 
 ## Skills
