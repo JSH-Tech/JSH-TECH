@@ -84,7 +84,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JSH-Tech&show_icons=true&theme=tokyonight&hide_border=true" alt="JSH-Tech's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JSH-Tech&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JSH-Tech&theme=tokyonight&hide_border=true" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSH-Tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
